@@ -1,5 +1,5 @@
 {
-  "name": "prac-four",
+  "name": "prac-five",
   "version": "1.0.0",
   "description": "SIT725 Project ",
   "main": "server.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abatool-abatool/Practical-Four-OC-T3.git"
+    "url": "git+https://github.com/abatool-abatool/week-5-test.git"
   },
   "keywords": [
     "Express",
@@ -17,11 +17,12 @@
   "author": "Amna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abatool-abatool/Practical-Four-OC-T3/issues"
+    "url": "https://github.com/abatool-abatool/week-5-test/issues"
   },
-  "homepage": "https://github.com/abatool-abatool/Practical-Four-OC-T3#readme",
+  "homepage": "https://github.com/abatool-abatool/week-5-test#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongodb": "^4.12.1"
   }
